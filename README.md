@@ -11,18 +11,10 @@ Django-powered Library Management API with user authentication, book catalog, an
 - Request approval/denial workflow
 - CSV export of book request history
 
-## Tech Stack
-- Django
-- Django Rest Framework
-- Custom User Authentication
-- PostgreSQL (recommended)
+
 
 ## Setup & Installation
 
-### Prerequisites
-- Python 3.9+
-- Django 4.2+
-- pip
 
 ### Installation Steps
 ```bash
